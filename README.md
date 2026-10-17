@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,100:0074D9&height=200&section=header&text=TEY%20HAO%20RUI&fontSize=50&fontColor=ffffff&animation=twinkling)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F1FF&center=true&vCenter=true&width=600&lines=Computer+Network+%26+Security+Student;UTM+Class+of+2028;Aspiring+Web+Developer)](https://git.io/typing-svg)
 # 👋 Hi, I'm TEY HAO RUI
 
 🎓 **Year 1 Student studying Computer Network & Security at Universiti Teknologi Malaysia (UTM)**  
