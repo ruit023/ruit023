@@ -1,0 +1,73 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="680" height="180" viewBox="0 0 680 180">
+  <defs>
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity=".12"/>
+      <stop offset="50%" stop-color="#aaffc8" stop-opacity=".025"/>
+      <stop offset="100%" stop-color="#00ff66" stop-opacity=".07"/>
+    </linearGradient>
+
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity=".65"/>
+      <stop offset="50%" stop-color="#00ff66" stop-opacity=".22"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity=".12"/>
+    </linearGradient>
+
+    <linearGradient id="shine">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity=".65"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Dark glass surface -->
+  <rect x="8" y="8" width="664" height="164" rx="16"
+        fill="#080d0a" fill-opacity=".96"/>
+
+  <rect x="8" y="8" width="664" height="164" rx="16"
+        fill="url(#glass)"/>
+
+  <!-- Ambient green light -->
+  <ellipse cx="100" cy="10" rx="270" ry="80"
+           fill="#00ff66" opacity=".07"/>
+
+  <!-- Glass edge -->
+  <rect x="8.5" y="8.5" width="663" height="163" rx="15.5"
+        fill="none" stroke="url(#edge)" stroke-width="1.2"/>
+
+  <!-- Top reflection -->
+  <rect x="70" y="9" width="540" height="1"
+        fill="url(#shine)"/>
+
+  <!-- Header -->
+  <circle cx="30" cy="32" r="4" fill="#00ff66"/>
+  <text x="44" y="36"
+        font-family="Arial, sans-serif"
+        font-size="10" letter-spacing="2"
+        fill="#caffd9">PROFILE / INTRODUCTION</text>
+
+  <!-- Static fallback title -->
+  <text x="28" y="79"
+        font-family="monospace" font-size="20"
+        font-weight="bold" fill="#00ff66">
+    TEY HAO RUI
+  </text>
+
+  <text x="28" y="105"
+        font-family="Arial, sans-serif" font-size="13"
+        fill="#d9f5e2">
+    Network &amp; Security Student @ UTM
+  </text>
+
+  <text x="28" y="128"
+        font-family="Arial, sans-serif" font-size="12"
+        fill="#a9c9b3">
+    Ex-KMJ Alumni | Learning C++ &amp; Python
+  </text>
+
+  <path d="M28 150 H652"
+        stroke="#ffffff" stroke-opacity=".12"/>
+  <path d="M28 150 H120"
+        stroke="#00ff66" stroke-opacity=".65"/>
+</svg>
