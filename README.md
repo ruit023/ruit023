@@ -21,11 +21,9 @@
 - **Web Development**: HTML, CSS *(Learning)*
 - **Tools & Platforms**: Git, GitHub, VS Code
 
----
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruit023&show_icons=true&theme=radial)
-### 📈 TOP LANGUAGE
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruit023&layout=compact&theme=radial)
----
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ruit023&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
 
 💡 *"Keep learning, stay curious, and build one commit at a time."*
