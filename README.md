@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F1FF&center=true&vCenter=true&width=600&lines=Computer+Network+%26+Security+Student;UTM+Class+of+2028;Aspiring+Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F1FF&left=true&vCenter=true&width=600&lines=Computer+Network+%26+Security+Student;UTM+Class+of+2026;Aspiring+Web+Developer)](https://git.io/typing-svg)
 # 👋 Hi, I'm TEY HAO RUI
 
 🎓 **Year 1 Student studying Computer Network & Security at Universiti Teknologi Malaysia (UTM)**  
