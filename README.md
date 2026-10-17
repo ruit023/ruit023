@@ -1,9 +1,12 @@
+<!-- 1. 动态 SVG 赛博朋克 Liquid Glass 卡片 -->
 <p align="left">
   <img src="./banner.svg" alt="Tey Hao Rui Liquid Glass Banner" width="100%" />
 </p>
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=00FF66&center=false&vCenter=true&width=620&height=88&lines=TEY+HAO+RUI+%7C+Github+Profile;Network+%26+Security+Student+%40+UTM;Ex-KMJ+Alumni+%7C+Learning+C%2B%2B+%26+Python;Aspiring+Web+Developer+%26+Tech+Explorer"
-      alt="My introduction"
-    />
+
+<!-- 2. 赛博朋克 Ben 10 绿荧光打字机效果容器 -->
+<div align="left" style="background: rgba(0, 255, 102, 0.05); border: 1px solid rgba(0, 255, 102, 0.3); border-radius: 12px; padding: 12px 18px; max-width: 680px; margin-top: 10px; margin-bottom: 20px;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=00FF66&center=false&vCenter=true&width=620&height=88&lines=TEY+HAO+RUI+%7C+Github+Profile;Network+%26+Security+Student+%40+UTM;Ex-KMJ+Alumni+%7C+Learning+C%2B%2B+%26+Python;Aspiring+Web+Developer+%26+Tech+Explorer" alt="My introduction" />
   </a>
 </div>
 
