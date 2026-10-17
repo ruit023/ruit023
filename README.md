@@ -12,7 +12,7 @@
 - 💡 **Currently Learning**: C++, Python, Data Structures & Networking Concepts
 - 🌐 **Interests**: Web Development, Cybersecurity, and Cloud Technologies
 - 🎯 **Current Goal**: Master core programming fundamentals, build my first full web project, and establish a strong GitHub & LinkedIn profile
-- 📫 **How to reach me**: [TEY HAO RUI] 
+- 📫 **How to reach me**: teyhaorui@gmail.com | https://www.linkedin.com/in/tey-hao-rui/?isSelfProfile=true 
 
 ---
 
