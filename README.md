@@ -1,6 +1,6 @@
 <div align="left" style="background: rgba(0, 255, 102, 0.05); border: 1px solid rgba(0, 255, 102, 0.3); border-radius: 12px; padding: 15px 20px; backdrop-filter: blur(10px); box-shadow: 0 4px 20px rgba(0, 255, 102, 0.15); max-width: 650px; margin-bottom: 20px;">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF66&center=false&vCenter=true&width=600&height=45&lines=TEY+HAO+RUI+%7C+Omnitrix+Console;Network+%26+Security+Student+%40+UTM;Ex-KMJ+Alumni+%7C+Learning+C%2B%2B+%26+Python;Aspiring+Web+Developer+%26+Tech+Explorer" alt="Cyberpunk Glass Typing Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF66&center=false&vCenter=true&width=600&height=45&lines=TEY+HAO+RUI+%7C+Github+Profile;Network+%26+Security+Student+%40+UTM;Ex-KMJ+Alumni+%7C+Learning+C%2B%2B+%26+Python;Aspiring+Web+Developer+%26+Tech+Explorer" alt="Cyberpunk Glass Typing Banner" />
   </a>
 </div>
 # 👋 Hi, I'm TEY HAO RUI
