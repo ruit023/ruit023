@@ -22,7 +22,7 @@
 - **Tools & Platforms**: Git, GitHub, VS Code
 
 ### 📈 GitHub Stats
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=ruit023&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
