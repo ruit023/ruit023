@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F1FF&center=true&vCenter=true&width=650&height=50&lines=TEY+HAO+RUI+%7C+Cyberpunk+Console;Network+%26+Security+Student+%40+UTM;Ex-KMJ+Alumni+%7C+Learning+C%2B%2B+%26+Python;Aspiring+Web+Developer+%26+Tech+Explorer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F1FF&left=true&vCenter=true&width=650&height=50&lines=TEY+HAO+RUI+%7C+Cyberpunk+Console;Network+%26+Security+Student+%40+UTM;Ex-KMJ+Alumni+%7C+Learning+C%2B%2B+%26+Python;Aspiring+Web+Developer+%26+Tech+Explorer" alt="Typing SVG" />
   </a>
 </p>
 # 👋 Hi, I'm TEY HAO RUI
