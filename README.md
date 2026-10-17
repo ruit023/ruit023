@@ -24,12 +24,8 @@
 ---
 ### 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruit023&show_icons=true&theme=radial)
+### 📈 TOP LANGUAGE
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruit023&layout=compact&theme=radial)
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruit023&show_icons=true&theme=radial" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruit023&layout=compact&theme=radial" alt="Top Languages" />
-</p>
 ---
 
 💡 *"Keep learning, stay curious, and build one commit at a time."*
