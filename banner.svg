@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="180" viewBox="0 0 680 180">
+  <defs>
+    <!-- 液态玻璃渐变 -->
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity=".12" />
+      <stop offset="50%" stop-color="#aaffc8" stop-opacity=".025" />
+      <stop offset="100%" stop-color="#00ff66" stop-opacity=".07" />
+    </linearGradient>
+
+    <!-- 边框玻璃切面渐变 -->
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity=".65" />
+      <stop offset="50%" stop-color="#00ff66" stop-opacity=".22" />
+      <stop offset="100%" stop-color="#ffffff" stop-opacity=".12" />
+    </linearGradient>
+
+    <!-- 高光流光渐变 -->
+    <linearGradient id="shine">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0" />
+      <stop offset="50%" stop-color="#ffffff" stop-opacity=".85" />
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0" />
+    </linearGradient>
+
+    <!-- 底部发光流动激光线渐变 -->
+    <linearGradient id="laser" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00ff66" stop-opacity="0" />
+      <stop offset="50%" stop-color="#00ff66" stop-opacity="1" />
+      <stop offset="100%" stop-color="#00ff66" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+
+  <!-- 1. 暗黑玻璃背景底座 -->
+  <rect x="8" y="8" width="664" height="164" rx="16" fill="#080d0a" fill-opacity=".96" />
+
+  <rect x="8" y="8" width="664" height="164" rx="16" fill="url(#glass)" />
+
+  <!-- 2. 【动态效果 1】：呼吸感 Ben 10 绿色环境光 -->
+  <ellipse cx="100" cy="10" rx="270" ry="80" fill="#00ff66">
+    <animate attributeName="opacity" values="0.04;0.12;0.04" dur="4s" repeatCount="indefinite" />
+    <animate attributeName="rx" values="250;290;250" dur="4s" repeatCount="indefinite" />
+  </ellipse>
+
+  <!-- 3. 玻璃边框切面 -->
+  <rect x="8.5" y="8.5" width="663" height="163" rx="15.5" fill="none" stroke="url(#edge)" stroke-width="1.2" />
+
+  <!-- 4. 【动态效果 2】：顶部滑过玻璃的流光反射线 -->
+  <g clip-path="url(#clip-shine)">
+    <rect x="-200" y="9" width="200" height="1" fill="url(#shine)">
+      <animate attributeName="x" from="-200" to="680" dur="3.5s" repeatCount="indefinite" />
+    </rect>
+  </g>
+
+  <!-- 5. Header 与【动态效果 3】：闪烁的绿光 LED 状态灯 -->
+  <circle cx="30" cy="32" r="4" fill="#00ff66">
+    <animate attributeName="opacity" values="1;0.3;1" dur="1.8s" repeatCount="indefinite" />
+  </circle>
+
+  <text x="44" y="36" font-family="Arial, sans-serif" font-size="10" letter-spacing="2" fill="#caffd9">PROFILE / OMNITRIX CONSOLE</text>
+
+  <!-- 6. 静态文本说明（名片核心） -->
+  <text x="28" y="79" font-family="monospace" font-size="20" font-weight="bold" fill="#00ff66">
+    TEY HAO RUI
+  </text>
+
+  <text x="28" y="105" font-family="Arial, sans-serif" font-size="13" font-weight="600" fill="#d9f5e2">
+    Network & Security Student @ UTM
+  </text>
+
+  <text x="28" y="128" font-family="Arial, sans-serif" font-size="12" fill="#a9c9b3">
+    Ex-KMJ Alumni | Learning C++ & Python
+  </text>
+
+  <!-- 7. 底部暗灰色轨迹分割线 -->
+  <path d="M28 150 H652" stroke="#ffffff" stroke-opacity=".12" />
+
+  <!-- 8. 【动态效果 4】：底栏穿梭流动的激光能量线 -->
+  <rect x="28" y="149.5" width="120" height="1" fill="url(#laser)">
+    <animate attributeName="x" from="28" to="532" dur="2.5s" repeatCount="indefinite" />
+  </rect>
+</svg>
