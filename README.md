@@ -1,4 +1,3 @@
-
 <div align="left">
   <img
     src="./assets/liquid-glass-card.svg"
@@ -14,9 +13,6 @@
   </a>
 </div>
 
-    />
-  </a>
-</div>
 # 👋 Hi, I'm TEY HAO RUI
 
 🎓 **Year 1 Student studying Computer Network & Security at Universiti Teknologi Malaysia (UTM)**  
