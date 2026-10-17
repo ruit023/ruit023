@@ -1,8 +1,19 @@
+
 <div align="left">
+  <img
+    src="./assets/liquid-glass-card.svg"
+    alt="Tey Hao Rui Liquid Glass Profile Card"
+    width="100%"
+  />
+
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF66&center=false&vCenter=true&width=600&height=45&lines=TEY+HAO+RUI+%7C+Github+Profile;Network+%26+Security+Student+%40+UTM;Ex-KMJ+Alumni+%7C+Learning+C%2B%2B+%26+Python;Aspiring+Web+Developer+%26+Tech+Explorer"
-      alt="TEY HAO RUI - GitHub Profile"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=00FF66&center=false&vCenter=true&width=620&height=88&lines=TEY+HAO+RUI+%7C+Github+Profile;Network+%26+Security+Student+%40+UTM;Ex-KMJ+Alumni+%7C+Learning+C%2B%2B+%26+Python;Aspiring+Web+Developer+%26+Tech+Explorer"
+      alt="My introduction"
+    />
+  </a>
+</div>
+
     />
   </a>
 </div>
