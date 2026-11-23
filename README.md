@@ -1,7 +1,7 @@
 # 👋 Hi, I'm TEY HAO RUI
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1800&duration=3500&color=2F81F7&center=true&vCenter=true&width=700&height=50&lines=Computer+Network+%26+Security+Student;Learning+C%2B%2B+%7C+Python+%7C+Web+Development;Exploring+Technology+One+Project+at+a+Time" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1800&duration=3500&color=2F81F7&center=true&vCenter=true&width=800&height=65&lines=Computer+Network+%26+Security+Student;Learning+C%2B%2B+%7C+Python+%7C+Web+Development;Exploring+Technology+One+Project+at+a+Time" alt="Typing Animation" />
 </p>
 
 <p align="center">
