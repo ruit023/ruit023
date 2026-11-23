@@ -70,47 +70,6 @@ I'm currently focusing on building a strong foundation in:
 - ⚙️ **Practical Technology** — Exploring computer hardware, troubleshooting, and hands-on technical projects.
 
 ---
-
-## 🚀 Featured Projects & Coursework
-
-Here are some of my academic projects and coursework activities.
-
-### 🛒 1. CoopMart Inventory Management System
-
-> **Technology:** Python
-
-- A coursework project focused on inventory management.
-- Explores basic programming concepts and practical problem-solving.
-- Demonstrates the application of Python in a management system.
-
-🔗 **Repository:** [Add Project Repository Link](#)
-
----
-
-### 🖥️ 2. PC Assembly & Hardware Troubleshooting
-
-> **Category:** Computer Hardware / Technical Case Study
-
-- Explores computer components and their functions.
-- Covers PC assembly fundamentals and hardware troubleshooting.
-- Develops practical understanding of computer systems.
-
-🔗 **Documentation:** [Add Documentation Link](#)
-
----
-
-### 📚 3. NALI 2026 & TIS Webinar Reflections
-
-> **Category:** Academic Learning / SECP1513
-
-- Reflections on NALI 2026 and Technology and Information System (TIS) learning activities.
-- Documents key takeaways, knowledge gained, and technology-related insights.
-- Connects academic learning with real-world technological developments.
-
-🔗 **Documentation:** [Add Reflection Link](#)
-
----
-
 ## 📊 GitHub Statistics
 
 <p align="center">
