@@ -156,7 +156,7 @@ Strengthen my programming fundamentals, understand computer networks, and develo
 - Technology and Information System learning activities.
 - Documents key takeaways and insights.
 
-🔗 [View Reflections](YOUR_REFLECTION_LINK)
+🔗 [View Reflections](https://github.com/ruit023/secp1513-nali2026-showcase)
 
 </td>
 </tr>
