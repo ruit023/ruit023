@@ -132,7 +132,7 @@ Strengthen my programming fundamentals, understand computer networks, and develo
 - Applies basic programming concepts.
 - Focuses on practical problem-solving.
 
-🔗 [View Repository](YOUR_COOPMART_REPOSITORY_LINK)
+🔗 [View Repository]((https://github.com/ruit023/cpp-learning-journey))
 
 ---
 
