@@ -144,7 +144,7 @@ Strengthen my programming fundamentals, understand computer networks, and develo
 - Covers PC assembly fundamentals.
 - Documents hardware troubleshooting concepts.
 
-🔗 [View Documentation](YOUR_DOCUMENTATION_LINK)
+🔗 [View Documentation](https://github.com/ruit023/PC-Assembly-and-Troubleshooting-Lab)
 
 ---
 
