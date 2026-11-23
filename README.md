@@ -1,110 +1,159 @@
-👋 Hi, I'm TEY HAO RUI
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=2F81F7&width=650&lines=Computer+Network+%26+Security+Student;Learning+C%2B%2B+%7C+Python+%7C+Web+Development;Exploring+Technology+One+Project+at+a+Time)
+# 👋 Hi, I'm TEY HAO RUI
 
-🎓 Year 1 Computer Network & Security Student
-🏛️ Universiti Teknologi Malaysia (UTM)
-📍 Johor, Malaysia
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1800&duration=3500&color=2F81F7&center=true&vCenter=true&width=700&height=50&lines=Computer+Network+%26+Security+Student;Learning+C%2B%2B+%7C+Python+%7C+Web+Development;Exploring+Technology+One+Project+at+a+Time" alt="Typing Animation" />
+</p>
 
-I'm an aspiring technology enthusiast passionate about understanding how technology works, developing practical programming skills, and exploring the world of computer networking and cybersecurity.
+<p align="center">
+  🎓 Year 1 Computer Network & Security Student<br>
+  🏛️ Universiti Teknologi Malaysia (UTM)<br>
+  📍 Johor, Malaysia
+</p>
 
-👨‍💻 About Me
+<p align="center">
+  I'm an aspiring technology enthusiast passionate about understanding how technology works, developing practical programming skills, and exploring the world of computer networking and cybersecurity.
+</p>
 
-👤 Name: TEY HAO RUI
-🆔 Matric Number: A26CS038
-🎓 University: Universiti Teknologi Malaysia (UTM)
-📚 Programme: Computer Network & Security
-🏫 Previous Education: Kolej Matrikulasi Johor (KMJ) Alumni
-📖 Coursework: Digital Information / Technology and Information System (SECP1513)
-💻 Currently Learning: C++, Python, HTML & CSS
-🎯 Goal: Strengthen my programming fundamentals and develop practical technology projects.
+---
+
+## 👨‍💻 About Me
+
+<p align="left">
+  👤 <b>Name:</b> TEY HAO RUI<br>
+  🆔 <b>Matric Number:</b> A26CS038<br>
+  🎓 <b>University:</b> Universiti Teknologi Malaysia (UTM)<br>
+  📚 <b>Programme:</b> Computer Network & Security<br>
+  🏫 <b>Previous Education:</b> Kolej Matrikulasi Johor (KMJ) Alumni<br>
+  📖 <b>Coursework:</b> Digital Information / Technology and Information System (SECP1513)<br>
+  💻 <b>Currently Learning:</b> C++, Python, HTML & CSS<br>
+  🎯 <b>Goal:</b> Strengthen my programming fundamentals and develop practical technology projects.
+</p>
+
 I'm continuously learning, experimenting with new technologies, and documenting my academic journey through GitHub.
 
-🛠️ Technical Skills & Tools
+---
 
-Programming Languages
+## 🛠️ Technical Skills & Tools
 
-!C++ !Python
+### 💻 Programming Languages
 
-Web Development
+<p align="left">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</p>
 
-!HTML5 !CSS3
+### 🌐 Web Development
 
-Development Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
 
-!Git !GitHub !VS Code
+### ⚙️ Development Tools
 
-🌱 Learning Focus & Interests
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+</p>
+
+---
+
+## 🌱 Learning Focus & Interests
 
 I'm currently focusing on building a strong foundation in:
 
-🌐 Computer Networking — Understanding network fundamentals, protocols, and infrastructure.
-🔐 Cybersecurity — Exploring information security, network security, and fundamental security concepts.
-💻 Programming — Improving problem-solving skills through C++ and Python.
-🌍 Web Development — Learning HTML and CSS to build simple, functional websites.
-⚙️ Practical Technology — Exploring computer hardware, troubleshooting, and hands-on technical projects.
-🚀 Featured Projects & Coursework
+- 🌐 **Computer Networking** — Understanding network fundamentals, protocols, and infrastructure.
+- 🔐 **Cybersecurity** — Exploring information security, network security, and fundamental security concepts.
+- 💻 **Programming** — Improving problem-solving skills through C++ and Python.
+- 🌍 **Web Development** — Learning HTML and CSS to build simple, functional websites.
+- ⚙️ **Practical Technology** — Exploring computer hardware, troubleshooting, and hands-on technical projects.
+
+---
+
+## 🚀 Featured Projects & Coursework
 
 Here are some of my academic projects and coursework activities.
 
-🛒 1. CoopMart Inventory Management System
+### 🛒 1. CoopMart Inventory Management System
 
-Technology: Python
+> **Technology:** Python
 
-A coursework project focused on inventory management.
-Explores basic programming concepts and practical problem-solving.
-Demonstrates the application of Python in a management system.
-🔗 Repository: Add Project Repository Link Here
+- A coursework project focused on inventory management.
+- Explores basic programming concepts and practical problem-solving.
+- Demonstrates the application of Python in a management system.
 
-🖥️ 2. PC Assembly & Hardware Troubleshooting
+🔗 **Repository:** [Add Project Repository Link](#)
 
-Category: Computer Hardware / Technical Case Study
+---
 
-Explores computer components and their functions.
-Covers PC assembly fundamentals and hardware troubleshooting.
-Develops practical understanding of computer systems.
-🔗 Documentation: Add Documentation Link Here
+### 🖥️ 2. PC Assembly & Hardware Troubleshooting
 
-📚 3. NALI 2026 & TIS Webinar Reflections
+> **Category:** Computer Hardware / Technical Case Study
 
-Category: Academic Learning / SECP1513
+- Explores computer components and their functions.
+- Covers PC assembly fundamentals and hardware troubleshooting.
+- Develops practical understanding of computer systems.
 
-Reflections on NALI 2026 and Technology and Information System (TIS) learning activities.
-Documents key takeaways, knowledge gained, and technology-related insights.
-Connects academic learning with real-world technological developments.
-🔗 Documentation: Add Reflection Link Here
+🔗 **Documentation:** [Add Documentation Link](#)
 
-📊 GitHub Statistics
+---
+
+### 📚 3. NALI 2026 & TIS Webinar Reflections
+
+> **Category:** Academic Learning / SECP1513
+
+- Reflections on NALI 2026 and Technology and Information System (TIS) learning activities.
+- Documents key takeaways, knowledge gained, and technology-related insights.
+- Connects academic learning with real-world technological developments.
+
+🔗 **Documentation:** [Add Reflection Link](#)
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
- <img src="https://github-readme-stats-fast.vercel.app/api?username=ruit023&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub Statistics" />
- <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ruit023&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ruit023&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub Statistics" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ruit023&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most Used Languages" />
 </p>
 
 <p align="center">
- <img src="https://streak-stats.demolab.com?user=ruit023&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+  <img src="https://streak-stats.demolab.com?user=ruit023&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
-🤝 Connect With Me
+---
 
-I'm always open to connecting with fellow students, developers, and technology enthusiasts!
-
-<p align="left">
- <a href="mailto:teyhaorui@gmail.com">
- <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
- </a>
- <a href="https://www.linkedin.com/in/tey-hao-rui/">
- <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
- </a>
- <a href="https://github.com/ruit023">
- <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
- </a>
-</p>
-
-💡 Personal Motto
-
-"Keep learning, stay curious, and build one commit at a time."
-⭐ Thank you for visiting my GitHub profile!
+## 🤝 Connect With Me
 
 <p align="center">
- <i>Learning today, building tomorrow.</i>
+  I'm always open to connecting with fellow students, developers, and technology enthusiasts!
+</p>
+
+<p align="center">
+  <a href="mailto:teyhaorui@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/tey-hao-rui/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/ruit023">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+## 💡 Personal Motto
+
+<p align="center">
+  <i>"Keep learning, stay curious, and build one commit at a time."</i>
+</p>
+
+<p align="center">
+  ⭐ Thank you for visiting my GitHub profile!
+</p>
+
+<p align="center">
+  <i>Learning today, building tomorrow.</i>
 </p>
