@@ -1,8 +1,5 @@
 <h1 align="center">👋 Hi, I'm TEY HAO RUI</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1600&duration=3000&color=58A6FF&center=true&vCenter=true&width=800&height=65&lines=Computer+Network+%26+Security+Student;Exploring+Networking+%26+Cybersecurity;Learning+C%2B%2B+%7C+Python+%7C+Web+Development" alt="Typing SVG" />
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1600&duration=3000&color=58A6FF&center=true&vCenter=true&width=800&height=65&lines=Computer+Network+%26+Security+Student;Exploring+Networking+%26+Cybersecurity;Learning+C%2B%2B+%7C+Python+%7C+Web+Development" alt="Typing SVG" />
