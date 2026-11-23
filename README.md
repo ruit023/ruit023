@@ -69,19 +69,22 @@ I'm currently focusing on building a strong foundation in:
 - 🌍 **Web Development** — Learning HTML and CSS to build simple, functional websites.
 - ⚙️ **Practical Technology** — Exploring computer hardware, troubleshooting, and hands-on technical projects.
 
----
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=ruit023&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub Statistics" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ruit023&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most Used Languages" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=ruit023&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&card_width=420" height="180" alt="GitHub Statistics" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ruit023&layout=compact&theme=tokyonight&hide_border=true&card_width=420" height="180" alt="Most Used Languages" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ruit023&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+  <img src="https://streak-stats.demolab.com?user=ruit023&theme=tokyonight&hide_border=true&card_width=850" width="850" alt="GitHub Contribution Streak" />
 </p>
-
----
 
 ## 🤝 Connect With Me
 
